@@ -6,6 +6,7 @@ Gitting Started
 ## Why?
 - Git lets us all contribute features at the same time without a lot of frustrations.
 
+
 ## Configuring git
 We'll isolate our change sets by pushing our change sets to their own feature branches. For this reason, it's convenient to automatically allow git to create
 a branch of the same name as your local one on the server.
@@ -64,8 +65,11 @@ git pull origin/master
 ```
 If there's a conflict, see [git scm section on conflicts](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts)
 
-## Extra Resources for learning Git
+## Git Resources
+Here's a list of pretty good git resources. Feel free to add in a pull request.
 
-http://try.github.io is a fun, interactive, and dynamic basic tutorial to Git commands via the command line.
+1) [try.github.com](http://try.github.io) is a fun, interactive, and dynamic basic tutorial to Git commands via the command line.
 
-http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 and it's following articles (part 2, etc.) offer a more comprehensive and detailed guide to Git commands, terms, and workfows.
+2) [Understanding Github: a journey for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) and it's following articles (part 2, etc.) offer a more comprehensive and detailed guide to Git commands, terms, and workfows.
+
+3) [Git Tutorial (from atlassian)](https://www.atlassian.com/git/tutorial) is good for learning about all the different commands. [Git Basics](https://www.atlassian.com/git/tutorial/git-basics) and [Git Branches](https://www.atlassian.com/git/tutorial/git-branches) are good starting points.
