@@ -75,4 +75,6 @@ Here's a list of pretty good git resources. Feel free to add in a pull request.
 
 2) [Understanding Github: a journey for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) and it's following articles (part 2, etc.) offer a more comprehensive and detailed guide to Git commands, terms, and workfows.
 
-3) [Git Tutorial (from atlassian)](https://www.atlassian.com/git/tutorial) is good for learning about all the different commands. [Git Basics](https://www.atlassian.com/git/tutorial/git-basics) and [Git Branches](https://www.atlassian.com/git/tutorial/git-branches) are good starting points.
+3) [Learn git branching](https://pcottle.github.io/learnGitBranching/?demo) is a good playground for visualizing what's going on when you execute git commands. When you feel confident enough, you can go into [interactive mode](https://pcottle.github.io/learnGitBranching/)
+
+4) [Git Tutorial (from atlassian)](https://www.atlassian.com/git/tutorial) is good for learning about all the different commands. [Git Basics](https://www.atlassian.com/git/tutorial/git-basics) and [Git Branches](https://www.atlassian.com/git/tutorial/git-branches) are good starting points.
