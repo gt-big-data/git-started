@@ -1,6 +1,8 @@
 Gitting Started
 ===============
 
+(NOTE: This documentation is a work in progress. Feel free to start an issue with it and send a pull request through github to fix the issue)
+
 ## Why?
 - Git lets us all contribute features at the same time without a lot of frustrations.
 
