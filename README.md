@@ -6,6 +6,11 @@ Gitting Started
 ## Why?
 - Git lets us all contribute features at the same time without a lot of frustrations.
 
+## Git Resources
+Here's a list of pretty good git resources. Feel free to add in a pull request.
+
+1) [Git Tutorial (from atlassian)](https://www.atlassian.com/git/tutorial). [Git Basics](https://www.atlassian.com/git/tutorial/git-basics) and [Git Branches](https://www.atlassian.com/git/tutorial/git-branches) are good starting points.
+
 ## Cheatsheet
 This will serve as a commands cheat sheet for common situations. All these assume you're in a valid git repo
 
