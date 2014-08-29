@@ -1,8 +1,17 @@
 Gitting Started
 ===============
 
+(NOTE: This documentation is a work in progress. Feel free to start an issue with it and send a pull request through github to fix the issue)
+
 ## Why?
 - Git lets us all contribute features at the same time without a lot of frustrations.
+
+## Configuring git
+We'll isolate our change sets by pushing our change sets to their own feature branches. For this reason, it's convenient to automatically allow git to create
+a branch of the same name as your local one on the server.
+```
+git config --global push.default current
+```
 
 ## Cheatsheet
 This will serve as a commands cheat sheet for common situations. All these assume you're in a valid git repo
@@ -34,7 +43,7 @@ git push origin/my_cool_feature
 ```
 Then follow [github's instructions for creating a pull request](https://help.github.com/articles/using-pull-requests#shared-repository-model)
 
-## Extra Resources
+## Extra Resources for learning Git
 
 http://try.github.io is a fun, interactive, and dynamic basic tutorial to Git commands via the command line.
 
