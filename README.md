@@ -63,3 +63,9 @@ git checkout master
 git pull origin/master
 ```
 If there's a conflict, see [git scm section on conflicts](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts)
+
+## Extra Resources for learning Git
+
+http://try.github.io is a fun, interactive, and dynamic basic tutorial to Git commands via the command line.
+
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 and it's following articles (part 2, etc.) offer a more comprehensive and detailed guide to Git commands, terms, and workfows.
