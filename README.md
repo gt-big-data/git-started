@@ -6,6 +6,13 @@ Gitting Started
 ## Why?
 - Git lets us all contribute features at the same time without a lot of frustrations.
 
+## Configuring git
+We'll isolate our change sets by pushing our change sets to their own feature branches. For this reason, it's convenient to automatically allow git to create
+a branch of the same name as your local one on the server.
+```
+git config --global push.default current
+```
+
 ## Cheatsheet
 This will serve as a commands cheat sheet for common situations. All these assume you're in a valid git repo
 
