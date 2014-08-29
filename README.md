@@ -50,20 +50,23 @@ Add all changes to the commit, execute the commit, then push TO YOUR FEATURE BRA
 ```
 git add .
 git commit -m 'I made my_cool_feature'
-git push origin/my_cool_feature
+git push origin my_cool_feature
 ```
 Then follow [github's instructions for creating a pull request](https://help.github.com/articles/using-pull-requests#shared-repository-model)
 
 If you are denied access, please [create an issue](https://github.com/gt-big-data/git-started/issues/new) and gt-big-data admins will give you push access to all repos.
 
+If you have push access, you will be able to merge other people's pull requests. Try not to merge your own pull requests.
 
-5) *I need to get the newest changes from master*
+If github says you can't "automatically merge this pull request," then the owner of the pull request needs to get the latest changes from master, and push those changes to their feature branch.
 
+5) *I need to get the latest changes from master*
 ```
-git checkout master
-git pull origin/master
+git pull origin master
 ```
-If there's a conflict, see [git scm section on conflicts](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts)
+If there's a conflict, see [git scm section on conflicts](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts).
+
+Note: since we're all pushing to NAMES.md, there may be conflicts.
 
 ## Git Resources
 Here's a list of pretty good git resources. Feel free to add in a pull request.
