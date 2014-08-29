@@ -33,3 +33,9 @@ git commit -m 'I made my_cool_feature'
 git push origin/my_cool_feature
 ```
 Then follow [github's instructions for creating a pull request](https://help.github.com/articles/using-pull-requests#shared-repository-model)
+
+## Extra Resources
+
+http://try.github.io is a fun, interactive, and dynamic basic tutorial to Git commands via the command line.
+
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 and it's following articles (part 2, etc.) offer a more comprehensive and detailed guide to Git commands, terms, and workfows.
