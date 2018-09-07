@@ -8,3 +8,6 @@ Put your name here to test your push access:
 - Nathan Cheek
 - Paras Jain
 - Holden Schaffer
+- Justin Kelley
+- Sidharth Eleswarapu
+- Meghavarnika Budati - Vivacia/Varnika
