@@ -8,3 +8,5 @@ Put your name here to test your push access:
 - Nathan Cheek
 - Paras Jain
 - Justin Kelley
+- Sidharth Eleswarapu
+- Meghavarnika Budati - Vivacia/Varnika
